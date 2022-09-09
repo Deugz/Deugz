@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deugz (Vincent Deguin)
+- 👋 Hi, I’m @Deugz (Vincent Deguin). I am currently doing a PhD at the Open University about **Experimenting with the earliest stages of planet formation**.
 
 - 👀 I’m interested in many things, including Astrophysics for which I am doing a PhD (related to the earliest stages of planet formation), and web development.
 
